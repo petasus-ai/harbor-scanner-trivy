@@ -14,7 +14,7 @@ require (
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/prometheus/client_golang v1.19.0
 	github.com/redis/go-redis/v9 v9.6.3
-	github.com/samber/lo v1.47.0
+	github.com/samber/lo v1.51.0
 	github.com/stretchr/testify v1.11.1
 	github.com/testcontainers/testcontainers-go v0.32.0
 	golang.org/x/net v0.38.0
